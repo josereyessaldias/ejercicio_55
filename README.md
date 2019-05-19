@@ -1,9 +1,8 @@
 # README
 
-Mejoré la visualización de la geolocalización (puse nombre actividad y cambié color mapa).
-Activé las colecciones, de manera que las actividades puedan ser parte de una colección.
+Habilité el ingreso por medio de facebook, pero sólo funciona en Heroku, no en Localhost. Traté de que se copiara la profile picture desde facebook, pero no lo logré.
 
-repositorio heroku: https://ejercicio54.herokuapp.com
+repositorio heroku: https://ejercicio55.herokuapp.com
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
