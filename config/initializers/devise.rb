@@ -5,6 +5,7 @@
 Devise.setup do |config|
 
   config.omniauth :facebook, ENV["FACEBOOK_APP_ID"], ENV["FACEBOOK_APP_SECRET"],
+  secure_image_url: true,
   info_fields: 'profile_pic'
   # The secret key used by Devise. Devise uses this key to generate
   # random tokens. Changing this key will render invalid all existing
